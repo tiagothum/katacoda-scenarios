@@ -1,0 +1,384 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"padding",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 10619,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sobre.html",
+			"settings":
+			{
+				"buffer_size": 6965,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "servicos.html",
+			"settings":
+			{
+				"buffer_size": 6813,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contato.html",
+			"settings":
+			{
+				"buffer_size": 4977,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "estilo.css",
+			"settings":
+			{
+				"buffer_size": 4064,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Tiago Suporte TI/Desktop/Nano - Soluções em Tecnologia/Projetos curso/Projeto Nano site/sobre.html",
+		"/C/Users/Tiago Suporte TI/Desktop/Nano - Soluções em Tecnologia/Projetos curso/Projeto Nano site/servicos.html",
+		"/C/Users/Tiago Suporte TI/Desktop/Nano - Soluções em Tecnologia/Projetos curso/Projeto Nano site/index.html",
+		"/C/Users/Tiago Suporte TI/Desktop/Mail/All mail Including Spam and Trash.mbox",
+		"/C/Users/Tiago Suporte TI/Desktop/123.html",
+		"/C/Users/Tiago Suporte TI/Desktop/teste12345tt.html",
+		"/C/Users/Tiago Suporte TI/Desktop/1234.html",
+		"/C/Users/Tiago Suporte TI/Desktop/topos_e_fundos_renko.py"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".form",
+			"form",
+			"crie",
+			"<script>\nfunction aparece(extendexpand){\n\n  if(document.getElementById(extendexpand).style.display == \"none\"){\n  document.getElementById(extendexpand).style.display = \"block\";\n  }else{\n  document.getElementById(extendexpand).style.display = \"none\"\n  }\n}\n</script>\n\n<a href=\"#\" onclick=\"aparece('perguntaum');\"><h4><strong>Direito Civil</strong></h4></a> <br>\n<span id=\"perguntaum\" style=\"display: none; \">\n<p align=\"justify\">Responsabilidade civil e obrigações - Propositura de medidas extrajudiciais e judiciais que tem como objetivo a reparação por danos materiais e morais e o adimplemento de obrigações contratuais e extracontratuais. </p>\n<p align=\"justify\">Contratos - Advocacia voltada para elaboração, revisão, análise e execução de contratos de natureza civil e comercial, tais como compromisso de compra e venda, prestação de serviços,  doação, locação, representação comercial, empreitada, comodato, dentre outros.</p>\n<p align=\"justify\">Contencioso - Propositura, defesa e acompanhamento de ações administrativas e judiciais em todas as áreas do Direito Civil e Comercial e em todas as instâncias.</p>\n<p align=\"justify\">Consultiva e Preventiva - Elaboração de pareceres e consultas de natureza civil, notificações e interpelações judiciais e extrajudiciais, escrituras públicas e outras atividades.</p>\n</span>\n\n<a href=\"#\" onclick=\"aparece('perguntadois');\"><h4><strong> Direitos Reais e Imobiliário</strong></h4></a> <br>\n<span id=\"perguntadois\" style=\"display: none; \">\n<p align=\"justify\">- Assessoria na compra e venda de imóveis, incluindo a verificação documental e participação do advogado em reuniões.</p>\n<p align=\"justify\">- Elaboração, análise e revisão de contratos de locação.</p>\n<p align=\"justify\">- Ações de despejo, renovatórias e revisional de aluguel. </p>\n<p align=\"justify\">- Ações de usucapião, reintegração de Posse, imissão na posse, reivindicatória, desapropriação indireta entre outras.</p>\n<p align=\"justify\">- Regularização de imóveis através de procedimentos administrativos e judiciais.</p>\n<p align=\"justify\">- Assessoria jurídica preventiva e orientação jurídica em questões de direito imobiliário. </p>\n\n</span>\n\n<a href=\"#\" onclick=\"aparece('perguntatres');\"><h4><strong> Direito de Família e Sucessões</strong></h4></a> <br>\n<span id=\"perguntatres\" style=\"display: none; \">\n<p align=\"justify\">Contencioso: Ações de separação, divórcio, guarda de filhos, adoção, pensão alimentícia, partilha de bens, regulamentação de visitas, separação de corpos, curatela, emancipação, reconhecimento de paternidade e outras relacionadas a advocacia de família.</p>\n<p align=\"justify\">Advocacia extrajudicial: Separação, divórcio, inventários e partilhas pela via administrativa, de acordo com a Lei n. 11.441/07 que instituiu a solução extrajudicial no âmbito do direito de família.</p>\n<p align=\"justify\">Advocacia de Família preventiva: pacto pré-nupcial, contrato de convivência, testamentos e escrituras de doação e usufruto (presença do advogado no cartório).</p>\n\n\n</span>\n\n<a href=\"#\" onclick=\"aparece('perguntaquatro');\"><h4> <strong>Direito do Consumidor</strong></h4></a> <br>\n<span id=\"perguntaquatro\" style=\"display: none; \">\n<p align=\"justify\">Advocacia Contenciosa: Propositura, impugnação e acompanhamento de ações judiciais e extrajudiciais de responsabilidade civil, (danos materiais e morais); medidas de urgência relacionadas ao Direito do Consumidor (exclusão do nome e CPF dos cadastros do SCPC/Serasa); ações que visem a nulidade ou modificação de cláusula contratual (inclusive em contratos bancários e consórcio), medidas destinadas ao cumprimento de contratos e ofertas de produtos ou serviços; e outras relacionadas às questões de consumo.</p>\n<p align=\"justify\">Advocacia Preventiva: Assessoria Jurídica voltada a proteção dos direitos básicos do consumidor, especialmente nas questões relacionadas as cláusulas abusivas e contratos de adesão referente ao fornecimento de produtos e/ou serviços (planos e seguros de saúde, transporte de bens e pessoas, seguros privados, bancários, previdência privada, financeiros, administração de consórcios, fornecimento de serviços públicos, telefonia e outros).</p>\n\n</span>\n\n<a href=\"#\" onclick=\"aparece('perguntaseis');\"><h4> <strong>Direito Bancário</strong></h4></a> <br>\n<span id=\"perguntaseis\" style=\"display: none; \">\n<p align=\"justify\">Advocacia preventiva e contenciosa para análise e discussão de questões bancárias, contratos bancários, cobranças e cláusulas abusivas, juros e encargos, endividamentos, defesa em ações de cobranças, monitória, execuções, busca e apreensão e procedimentos extrajudiciais.</p>\n\n</span>\n\n\n\n\n\n",
+			"  <a onclic"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sobre.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "servicos.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "contato.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3923,
+								3923
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 765.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "estilo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4064,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2718,
+								2718
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 817.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "estilo.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
